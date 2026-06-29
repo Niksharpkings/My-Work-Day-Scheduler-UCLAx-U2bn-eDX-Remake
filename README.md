@@ -4,8 +4,7 @@ A simple calendar app for scheduling your work day with bootstrap/jquery/moment.
 
 # Scheduler-My-Work-Days
 
-Scheduler-My-Work-Days was created for UCLAx-U2bn-eDX as there student to easily create a schedule for managing a single work day in a time block.
-Require ment was to use jquery and moment.js with the use of bootstrap and google fonts.
+My-Work-Day-Scheduler-UCLAx-U2bn-eDX-Remake was created for UCLAx assignment in 2022, but I revamped and upgraded the packages to 2026 and added my modifications to it. Its for student to easily create a schedule for managing a single work day in a time block. Requirement was to use jquery and moment.js with the use of bootstrap and google fonts. By Revamp I mean I redid the entire project from scratch after graduation.
 
 [Languages]: # Language: markdown, moment.js, jquery, javaScript, html, css, bootstrap and google fonts
 [Index]: # Path: My-Work-Day-Scheduler-UCLAx-U2bn-eDX-RemakeScheduler-My-Work-Days\index.html
